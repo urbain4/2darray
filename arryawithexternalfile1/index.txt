@@ -1,0 +1,9 @@
+12/09/
+10h30
+
+
+			Array with external file for a function
+
+1st exemple of an array with external file for a part of the ex,
+part of the ex was to change the differents exemples from main to mod ones,
+but an overwelming part of it is directly from the class or w3c/others sources.

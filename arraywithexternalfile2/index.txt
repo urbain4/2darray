@@ -1,0 +1,8 @@
+12/09
+10h35
+
+		Array with external file and randomn filer
+
+Goal is to create an 2darray using foreach, then switch to a function
+
+I'm going to use a foreach,
